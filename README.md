@@ -1,6 +1,4 @@
-![Live Demo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9YIyU12cA_a1k4fPP0DvcZfF2t3J4sYkHIHyJGB1bi9RCkBoTyDC9PCvWcwq9e_zyHo&usqp=CAU)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9YIyU12cA_a1k4fPP0DvcZfF2t3J4sYkHIHyJGB1bi9RCkBoTyDC9PCvWcwq9e_zyHo&usqp=CAU" alt="Dashboard Preview" width="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9YIyU12cA_a1k4fPP0DvcZfF2t3J4sYkHIHyJGB1bi9RCkBoTyDC9PCvWcwq9e_zyHo&usqp=CAU" alt="Dashboard Preview" width="700">
 
 # Automated-Social-Media-Posting
 Schedule and post updates to multiple social media platforms (e.g., Twitter, Facebook, LinkedIn) automatically using their respective APIs.
