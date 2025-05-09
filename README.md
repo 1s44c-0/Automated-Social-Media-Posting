@@ -1,3 +1,5 @@
+![Live Demo]([https://example.com/demo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.socialchamp.com%2Fblog%2Fautomate-social-media-posts%2F&psig=AOvVaw3zhr5LvKq2_Qnk2ACuPlwu&ust=1746836922609000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiovOaQlY0DFQAAAAAdAAAAABAh))
+
 # Automated-Social-Media-Posting
 Schedule and post updates to multiple social media platforms (e.g., Twitter, Facebook, LinkedIn) automatically using their respective APIs.
 
